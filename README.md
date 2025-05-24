@@ -1,4 +1,4 @@
-<!-- Profile Banner -->
+<!-- <!-- Profile Banner -->
 <!-- <p align="center">
   <img src="./assets/animation1.svg" width="300" height="300" alt="Pixel Animation 1" />
 </p>
@@ -11,9 +11,9 @@
 <p align="center">
   <img src="./assets/animation6obr.svg" width="300" height="300" alt="Pixel Animation 3" />
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/anim7.svg" width="800" height="300" alt="Pixel Animation 3" />
-</p>
+</p> -->
 <!-- <p align="center">
   <img src="./assets/animation4.svg" width="300" height="300" alt="Pixel Animation 4" />
 </p>
@@ -34,4 +34,4 @@
 - 🧪 Testing: xUnit, FluentAssertions, Integration Tests
 
 ---
- -->
+ --> -->
