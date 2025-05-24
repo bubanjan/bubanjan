@@ -4,12 +4,15 @@
 </p>
 <p align="center">
   <img src="./assets/animation2.svg" width="300" height="300" alt="Pixel Animation 2" /> -->
-</p>
+<!-- </p>
 <p align="center">
   <img src="./assets/animation3.svg" width="300" height="300" alt="Pixel Animation 3" />
 </p>
 <p align="center">
   <img src="./assets/animation6obr.svg" width="300" height="300" alt="Pixel Animation 3" />
+</p> -->
+<p align="center">
+  <img src="./assets/anim7.svg" width="300" height="300" alt="Pixel Animation 3" />
 </p>
 <!-- <p align="center">
   <img src="./assets/animation4.svg" width="300" height="300" alt="Pixel Animation 4" />

@@ -1,0 +1,58 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" style="background:black">
+  <defs>
+    <rect id="pixel" width="4" height="4" fill="#00ff99"/>
+  </defs>
+
+  <style>
+    .typing {
+      font-family: monospace;
+      font-size: 6px;
+      fill: #00ff99;
+      white-space: nowrap;
+      overflow: hidden;
+      animation: typing 6s steps(60, end) 1 forwards;
+    }
+
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 200px }
+    }
+  </style>
+
+  <!-- 20 pixels, randomly placed and animated -->
+  <use href="#pixel" x="10" y="10">
+    <animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="30" y="40">
+    <animate attributeName="opacity" values="0;1;0" dur="0.8s" begin="0.2s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="50" y="20">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" begin="0.4s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="70" y="60">
+    <animate attributeName="opacity" values="0;1;0" dur="0.7s" begin="0.1s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="90" y="30">
+    <animate attributeName="opacity" values="0;1;0" dur="1.3s" begin="0.3s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="110" y="80">
+    <animate attributeName="opacity" values="0;1;0" dur="0.6s" begin="0.6s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="130" y="50">
+    <animate attributeName="opacity" values="0;1;0" dur="1.1s" begin="0.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="150" y="70">
+    <animate attributeName="opacity" values="0;1;0" dur="1.4s" begin="0.7s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="170" y="90">
+    <animate attributeName="opacity" values="0;1;0" dur="0.9s" begin="0.9s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="190" y="110">
+    <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="1s" repeatCount="indefinite"/>
+  </use>
+
+  <!-- Typing text -->
+  <text x="5" y="190" class="typing">
+    NOVAK BUBANJA FULL STACK DEVELOPER, C#, .NET, XAML, JS, REACT
+  </text>
+</svg>
