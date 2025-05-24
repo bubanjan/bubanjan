@@ -17,7 +17,9 @@
 <!-- <p align="center">
   <img src="./assets/animation4.svg" width="300" height="300" alt="Pixel Animation 4" />
 </p>
- -->
+
+
+
 <!-- <img src="https://readme-typing-svg.demolab.com?lines=.+..+..+...;.+...+...+..+...+...+....+...+.....+....+....+......+...+....+.+..+.....+.+.+..+.+...&center=true&width=380&height=45" /> -->
 
 <!-- <p align="center">
@@ -35,3 +37,7 @@
 
 ---
  --> -->
+
+<p >
+  <img src="./assets/anim8.svg" width="300" height="300" alt="Pixel Animation 4" />
+</p>

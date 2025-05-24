@@ -1,0 +1,37 @@
+<svg width="220" height="20" viewBox="0 0 220 20" xmlns="http://www.w3.org/2000/svg" style="background:black">
+  <defs>
+    <rect id="pixel" width="10" height="10" />
+  </defs>
+  <style>
+    .p {
+      opacity: 0;
+      animation: appear 0.5s forwards;
+    }
+
+    @keyframes appear {
+      to { opacity: 1; }
+    }
+  </style>
+
+  <!-- Row of 20 pixels -->
+  <use href="#pixel" x="0"   y="5" fill="#00ff00" class="p" style="animation-delay: 0s"/>
+  <use href="#pixel" x="10"  y="5" fill="#ff00ff" class="p" style="animation-delay: 0.3s"/>
+  <use href="#pixel" x="20"  y="5" fill="#00ffff" class="p" style="animation-delay: 0.6s"/>
+  <use href="#pixel" x="30"  y="5" fill="#ffff00" class="p" style="animation-delay: 0.9s"/>
+  <use href="#pixel" x="40"  y="5" fill="#ff6600" class="p" style="animation-delay: 1.2s"/>
+  <use href="#pixel" x="50"  y="5" fill="#66ff66" class="p" style="animation-delay: 1.5s"/>
+  <use href="#pixel" x="60"  y="5" fill="#ff9999" class="p" style="animation-delay: 1.8s"/>
+  <use href="#pixel" x="70"  y="5" fill="#3399ff" class="p" style="animation-delay: 2.1s"/>
+  <use href="#pixel" x="80"  y="5" fill="#cc00cc" class="p" style="animation-delay: 2.4s"/>
+  <use href="#pixel" x="90"  y="5" fill="#99ff33" class="p" style="animation-delay: 2.7s"/>
+  <use href="#pixel" x="100" y="5" fill="#00ccff" class="p" style="animation-delay: 3s"/>
+  <use href="#pixel" x="110" y="5" fill="#ffcc00" class="p" style="animation-delay: 3.3s"/>
+  <use href="#pixel" x="120" y="5" fill="#00ffcc" class="p" style="animation-delay: 3.6s"/>
+  <use href="#pixel" x="130" y="5" fill="#ff33cc" class="p" style="animation-delay: 3.9s"/>
+  <use href="#pixel" x="140" y="5" fill="#66ccff" class="p" style="animation-delay: 4.2s"/>
+  <use href="#pixel" x="150" y="5" fill="#ff3366" class="p" style="animation-delay: 4.5s"/>
+  <use href="#pixel" x="160" y="5" fill="#33ff99" class="p" style="animation-delay: 4.8s"/>
+  <use href="#pixel" x="170" y="5" fill="#ff9933" class="p" style="animation-delay: 5.1s"/>
+  <use href="#pixel" x="180" y="5" fill="#33cc33" class="p" style="animation-delay: 5.4s"/>
+  <use href="#pixel" x="190" y="5" fill="#9966ff" class="p" style="animation-delay: 5.7s"/>
+</svg>
