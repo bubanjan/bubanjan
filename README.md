@@ -42,4 +42,4 @@
   <img src="./assets/anim8.svg" width="300" height="300" alt="Pixel Animation 4" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?lines=Full+stack+developer,C%23,.NET,JavaScript,React&center=true&width=480&height=45&color=00FF00&background=000000" />
+<img src="https://readme-typing-svg.demolab.com?lines=Full+stack+developer,C%23,.NET,JavaScript,React&center=true&width=300&height=45&color=00FF00&background=000000" />
