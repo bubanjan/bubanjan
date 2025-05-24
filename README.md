@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer+%7C+C%23%2C+.NET%2C+React%2C+JavaScript%2C+XAML&center=true&width=800&height=100&color=00FF00&background=000000&repeat=false&font=Fira+Code" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Full-Stack+Developer+%7C+C%23%2C+.NET%2C+React%2C+JavaScript%2C+XAML&center=true&width=800&height=100&color=00FF00&background=000000&repeat=false&font=Fira+Code" />
 </p>
