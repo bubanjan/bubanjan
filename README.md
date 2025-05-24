@@ -1,9 +1,9 @@
 <!-- Profile Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/animation1.svg" width="300" height="300" alt="Pixel Animation 1" />
 </p>
 <p align="center">
-  <img src="./assets/animation2.svg" width="300" height="300" alt="Pixel Animation 2" />
+  <img src="./assets/animation2.svg" width="300" height="300" alt="Pixel Animation 2" /> -->
 </p>
 <p align="center">
   <img src="./assets/animation3.svg" width="300" height="300" alt="Pixel Animation 3" />
