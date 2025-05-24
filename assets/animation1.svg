@@ -1,0 +1,55 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" style="background:black">
+  <defs>
+    <rect id="pixel" width="4" height="4" />
+  </defs>
+
+  <!-- Generate a colorful matrix of animated pixels -->
+  <!-- 10x10 grid (100 pixels), random colors + staggered loop animation -->
+
+  <!-- Row 1 -->
+  <use href="#pixel" x="10" y="10" fill="#ff0055">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" begin="0s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="20" y="10" fill="#00ffff">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" begin="0.1s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="30" y="10" fill="#ffff00">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" begin="0.2s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="40" y="10" fill="#00ff66">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" begin="0.3s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="50" y="10" fill="#ff6600">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" begin="0.4s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="60" y="10" fill="#ff00ff">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="70" y="10" fill="#33ccff">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="80" y="10" fill="#ffff99">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" begin="0.7s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="90" y="10" fill="#66ff33">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" begin="0.8s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="100" y="10" fill="#ff3399">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" begin="0.9s" repeatCount="indefinite"/>
+  </use>
+
+  <!-- Repeat this pattern for more rows -->
+  <!-- Example row 2 -->
+  <use href="#pixel" x="10" y="20" fill="#ffcc00">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" begin="1s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="20" y="20" fill="#cc66ff">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" begin="1.1s" repeatCount="indefinite"/>
+  </use>
+  <use href="#pixel" x="30" y="20" fill="#00ffff">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+  </use>
+  <!-- ... continue until full grid -->
+
+  <!-- Tip: You can paste/copy more rows like this up to 40x40 if you want -->
+</svg>
