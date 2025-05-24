@@ -1,0 +1,32 @@
+<svg width="120" height="30" viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .square {
+      opacity: 0;
+    }
+  </style>
+
+  <rect x="0" y="7.5" width="15" height="15" fill="#4caf50">
+    <animate attributeName="opacity" values="0;1;0" dur="5s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#4caf50;#ff5722;#2196f3;#ffeb3b;#4caf50" dur="12s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="25" y="7.5" width="15" height="15" fill="#4caf50">
+    <animate attributeName="opacity" values="0;1;0" dur="5s" begin="1s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#4caf50;#ff5722;#2196f3;#ffeb3b;#4caf50" dur="12s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="50" y="7.5" width="15" height="15" fill="#4caf50">
+    <animate attributeName="opacity" values="0;1;0" dur="5s" begin="2s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#4caf50;#ff5722;#2196f3;#ffeb3b;#4caf50" dur="12s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="75" y="7.5" width="15" height="15" fill="#4caf50">
+    <animate attributeName="opacity" values="0;1;0" dur="5s" begin="3s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#4caf50;#ff5722;#2196f3;#ffeb3b;#4caf50" dur="12s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="100" y="7.5" width="15" height="15" fill="#4caf50">
+    <animate attributeName="opacity" values="0;1;0" dur="5s" begin="4s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#4caf50;#ff5722;#2196f3;#ffeb3b;#4caf50" dur="12s" repeatCount="indefinite"/>
+  </rect>
+</svg>
