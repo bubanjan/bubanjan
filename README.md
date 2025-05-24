@@ -1,15 +1,15 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./assets/animattion1.svg" width="100" height="100" alt="Spinning Icon" />
+  <img src="./assets/animation1.svg" width="100" height="100" alt="Spinning Icon" />
 </p>
 <p align="center">
-  <img src="./assets/animattion2.svg" width="100" height="100" alt="Spinning Icon" />
+  <img src="./assets/animation2.svg" width="100" height="100" alt="Spinning Icon" />
 </p>
 <p align="center">
-  <img src="./assets/animattion3.svg" width="100" height="100" alt="Spinning Icon" />
+  <img src="./assets/animation3.svg" width="100" height="100" alt="Spinning Icon" />
 </p>
 <p align="center">
-  <img src="./assets/animattion4.svg" width="100" height="100" alt="Spinning Icon" />
+  <img src="./assets/animation4.svg" width="100" height="100" alt="Spinning Icon" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub!;I+love+coding+in+JavaScript!&center=true&width=380&height=45" />
