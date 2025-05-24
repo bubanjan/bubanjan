@@ -12,9 +12,9 @@
   <img src="./assets/animation4.svg" width="100" height="100" alt="Spinning Icon" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub!;I+love+coding+in+JavaScript!&center=true&width=380&height=45" />
+<img src="https://readme-typing-svg.demolab.com?lines=.+..+..+...;.+...+...+..+.....&center=true&width=380&height=45" />
 
-<p align="center">
+<!-- <p align="center">
   🚀 Full-stack Developer | ❤️ JavaScript & C# | 🌍 Based in Sweden
 </p>
 
@@ -28,3 +28,4 @@
 - 🧪 Testing: xUnit, FluentAssertions, Integration Tests
 
 ---
+ -->
