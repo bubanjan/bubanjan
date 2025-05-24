@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/anim8.svg" width="300" height="50" alt="Pixel Animation 4" />
+  <img src="./assets/anim9.svg" width="300" height="50" alt="Pixel Animation 4" />
 </p>
 
 <p align="center">
